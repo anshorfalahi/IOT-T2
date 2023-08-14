@@ -4,6 +4,7 @@
  * Muhammad Anshor Falahi
  * Muhammad Zaki
  * M. Reza Fahlevi
+ * Muhammad Seman
  *
  *=============================*
  *    LED   |  NODE MCU
@@ -12,6 +13,7 @@
  *    L3   -->    D2
  *    L4   -->    D3
  *
+ *    BUZZER| NODE MCU
  *    CN15  --> D4
  ================================*/
 
