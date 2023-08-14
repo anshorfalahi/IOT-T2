@@ -1,3 +1,13 @@
+/*=========KONEKSI NODEMCU VS LED & BUZZER 
+ *    LED   |  NODE MCU
+ *    L1   -->    D0
+ *    L2   -->    D1
+ *    L3   -->    D2
+ *    L4   -->    D3
+ *
+ *    CN15  --> D4
+ ================================*/
+
 #define Buzzer D4 
 
 void  setup()  {
@@ -6,7 +16,6 @@ pinMode(D1,  OUTPUT);  //LED2
 pinMode(D2,  OUTPUT);  //LED3
 pinMode(D3,  OUTPUT);  //LED4
 pinMode(Buzzer, OUTPUT); 
-
 }
 
 void  loop()  {
