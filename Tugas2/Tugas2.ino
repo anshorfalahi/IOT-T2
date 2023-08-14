@@ -1,4 +1,11 @@
 /*=========KONEKSI NODEMCU VS LED & BUZZER 
+ *
+ *========Anggota Kelompok========*
+ * Muhammad Anshor Falahi
+ * Muhammad Zaki
+ * M. Reza Fahlevi
+ *
+ *=============================*
  *    LED   |  NODE MCU
  *    L1   -->    D0
  *    L2   -->    D1

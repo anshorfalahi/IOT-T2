@@ -1,4 +1,10 @@
 /*=========KONEKSI NODEMCU VS TOMBOL, LED, & BUZZER 
+*
+ *========Anggota Kelompok========*
+ *  Muhammad Anshor Falahi
+ *  Muhammad Zaki
+ *  M. Reza Fahlevi
+ *
  *  TOMBOL  |  NODE MCU
  *    SW1   -->    D5
  *    SW2   -->    D6
